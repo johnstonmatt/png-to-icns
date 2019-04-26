@@ -1,0 +1,24 @@
+{
+  "name": "png-to-icns",
+  "version": "1.0.0",
+  "description": "icns from a 1024^2 png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "png-to-icns": "./bin/png2icns.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/johnstonmatt/icns-to-png"
+  },
+  "keywords": [
+    "icns",
+    "mac",
+    "icon",
+    "png"
+  ],
+  "author": "",
+  "license": "ISC"
+}
